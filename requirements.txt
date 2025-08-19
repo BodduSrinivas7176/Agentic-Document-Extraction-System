@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+pydantic
+pytesseract
+Pillow
+python-dotenv
